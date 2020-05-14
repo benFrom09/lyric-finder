@@ -1,12 +1,13 @@
 .destination {
-    font-size: 13px;
     line-height: 150%;
     white-space: normal;
     word-break: break-all;
     word-wrap: break-word;
-    display: inline;
     padding:20px;
-    margin-bottom:20px;
+    margin:20px auto;
+    width:50%;
+    background:#fff;
+    border-radius:5px;
 }
 
 .destination-get {
@@ -24,4 +25,12 @@
 .destination-api {
     color: #3c4151;
     font-weight: 700;
+}
+.destination-uri-variable {
+    color:#f14668;
+    font-weight: 700;
+}
+
+.slash-default {
+    color:#000;
 }

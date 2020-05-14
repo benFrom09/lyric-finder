@@ -1,4 +1,19 @@
 html, body {
-    background-color: rgb(155, 89, 182);
+    background-color:#fff;
     
+}
+
+.app-title {
+    text-align:center;
+    color:#e6df7a!important;
+}
+
+.text-center {
+    text-align:center!important;
+}
+.song-title {
+    padding:2.5em;
+}
+.lyricsContainer {
+    text-align:center;
 }
