@@ -1,0 +1,27 @@
+.destination {
+    font-size: 13px;
+    line-height: 150%;
+    white-space: normal;
+    word-break: break-all;
+    word-wrap: break-word;
+    display: inline;
+    padding:20px;
+    margin-bottom:20px;
+}
+
+.destination-get {
+    color: #7ac0a5;
+    border-color: #94d7be;
+    border: 2px solid;
+    padding: 2px 7px;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+
+.destination-protocol {
+    color: #5d6577;
+}
+.destination-api {
+    color: #3c4151;
+    font-weight: 700;
+}
